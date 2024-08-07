@@ -2,7 +2,8 @@
 import restaurants from "@/data.json";
 
 const restaurantsOrganized = {
-  first: [...restaurants].splice(0, 25),
+// first:[...restaurants].filter((restaurant)=>restaurant.rank < 2),
+first:[...restaurants].splice(0 , 25),
   second: [...restaurants].splice(25, 25),
 };
 </script>

@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
-      <NuxtLink class="navbar-brand" to="/">Restaurantly</NuxtLink>
+      <NuxtLink class="navbar-brand" to="/">My Restaurant App</NuxtLink>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
           <li class="nav-item">
