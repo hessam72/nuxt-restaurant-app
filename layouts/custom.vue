@@ -1,5 +1,8 @@
 <template>
   <div>
+
+
+    
     <slot />
     <RestaurantAd />
   </div>

@@ -3,4 +3,6 @@
     <Nav />
     <slot />
   </div>
+
+  
 </template>
